@@ -1,2 +1,15 @@
-# FiveM-Oil-Rig-Heist
-Fivem oil rig heist is a free script introduced to you by justscripts.net . A free script giving you a free oil rig mission for your server!
+If you like our release make sure to leave a star in github
+
+Oil Rig Heist is competely free script that allow your players to rob a Oil Rig  map from K4MBI (https://www.k4mb1maps.com/package/5165281)
+
+The script support following frameworks
+
+**- ESX** 
+
+**- QBCore** 
+
+**- VRP** 
+
+Among it script also support **Ox_Target**
+
+More dope scripts in https://justscripts.net/ 
